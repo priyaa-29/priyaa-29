@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priya Kumari
-- 🌱 I’m currently learning Android Development with Java
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me - priyajnv1999@gmail.com
 
 <!---
